@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Arpit Parhi
 
-<!--
-**ArpitParhi/ArpitParhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am a Computer Science and Engineering student at KIIT with an interest in software development and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C
+- Python
+- Java
+- Data Structures & Algorithms
+- Jupyter Notebook
+- Data Analysis
+
+## Education
+
+- B.Tech in Computer Science and Engineering — KIIT
+- Diploma in Computer Science and Engineering — Balasore School of Engineering
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- Software Development
+- Problem Solving
+
+## Connect With Me
+
+- LinkedIn: Add my LinkedIn profile here
+
+---
+
+⭐ Always learning, building, and improving.
