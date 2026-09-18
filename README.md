@@ -27,7 +27,6 @@ I am a Computer Science and Engineering student at KIIT with an interest in soft
 
 ## Connect With Me
 
-- LinkedIn: Add my LinkedIn profile here
- https://www.linkedin.com/in/arpit-parhi-765a78358
-
+- LinkedIn: https://www.linkedin.com/in/arpit-parhi-765a78358
+ 
 ⭐ Always learning, building, and improving.
